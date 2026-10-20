@@ -1,0 +1,18 @@
+{
+  "name": "FORJA · Treino",
+  "short_name": "FORJA",
+  "description": "Treinos, histórico e cardio",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101013",
+  "theme_color": "#ff394f",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
